@@ -6,17 +6,17 @@ Please understand that I'm working full time, therefore am working on this in my
 
 ## Supported Devices (eventually)
 ### Unihertz
-- Titan Slim [Owned]
-- Jelly Max [Need to Purchase]
-- Jelly Star [Need to Purchase]
-- Jelly 2 [Need to Purchase]
-- Jelly 2E [Need to Purchase]
+- Titan Slim [✅ Owned]
+- Jelly Max [❌ Need to Purchase]
+- Jelly Star [❌ Need to Purchase]
+- Jelly 2 [❌ Need to Purchase]
+- Jelly 2E [❌ Need to Purchase]
 
 ### Duoqin
-- Qin F22 Pro [Owned]
-- Qin F21 Pro [Owned]
-- Qin 3 [Need to Purchase]
-- Qin 3 Ultra [Need to Purchase]
+- Qin F22 Pro [✅ Owned]
+- Qin F21 Pro [✅ Owned]
+- Qin 3 [❌ Need to Purchase]
+- Qin 3 Ultra [❌ Need to Purchase]
 
 ### The Minimal Company
-- Minimal Phone (MP01) [Waiting for Dev Device]
+- Minimal Phone (MP01) [✴️ Waiting for Dev Device]
