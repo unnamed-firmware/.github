@@ -14,7 +14,7 @@ Please understand that I'm working full time, therefore am working on this in my
 
 ### Duoqin
 - Qin F22 Pro [✅ Owned]
-- Qin F21 Pro [✅ Owned]
+- Qin F21 Pro [✅✴️ Dead? No life after being in storage for 2 months.]
 - Qin 3 [❌ Need to Purchase]
 - Qin 3 Ultra [❌ Need to Purchase]
 
